@@ -1,0 +1,6 @@
+pandas
+sklearn
+nltk
+matplotlib
+seaborn
+pickle-mixin
