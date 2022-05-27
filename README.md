@@ -5,7 +5,7 @@ Complaint Management System helps in building strong relation with customers by 
 
 ## Objective
 This project deals with building a support for Management System by creating two ML classification models 
-1. Customer Dispute Classifier
+1. Customer Dispute Classifier.
 2. Product Detection Classifier. 
 
 ## Data
